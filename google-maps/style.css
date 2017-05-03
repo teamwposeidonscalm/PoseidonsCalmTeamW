@@ -1,0 +1,114 @@
+h3{
+	font-size:10px;
+}
+	.mapadmin {
+        height: 70%;
+		width:75%;
+		border-radius: 25px;
+		margin-top:-30px !important;
+		margin-left:80px !important;
+      }
+	  
+	  #map{
+        height: 70%;
+		width:75%;
+	    margin:0 auto;
+		border-radius: 25px;
+		margin-bottom: 30px;
+      }
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+	  
+	  .thumbnail .caption {
+		  padding:0px !important;
+	  }
+	  .thumbnail{
+		  padding:0px !important;
+	  }
+      #floating-panel {
+        position: absolute;
+        top: 10px;
+        left: 25%;
+        z-index: 5;
+        background-color: #fff;
+        padding: 5px;
+        border: 1px solid #999;
+        text-align: center;
+        font-family: 'Roboto','sans-serif';
+        line-height: 30px;
+        padding-left: 10px;
+      }
+      #floating-panel {
+        margin-left: -52px;
+      }
+
+        #floating-panel2 {
+        position: absolute;
+        top: 70px;
+        z-index: 5;
+        background-color: #fff;
+        padding: 5px;
+        border: 1px solid #999;
+        text-align: center;
+        font-family: 'Roboto','sans-serif';
+        line-height: 30px;
+        padding-left: 10px;
+      }
+       #floating-panel2 {
+
+      }
+	  
+	  .contentInfo{
+		  
+	  }
+	  
+	  input[type='file'] {
+  color:white;  
+}
+#sidebar{
+	margin-top:-485px; 
+	overflow: scroll;
+	height:450px; 
+	background-color: #5677fc;
+	color: black; 
+	overflow-x: hidden; 
+	width:200px;
+	float:right;
+		border-radius: 25px;
+		padding:15px;
+}
+.sidebarheader{
+	color:white;
+	font-weight:bold;
+	font-size:15px;
+	font-family:Tahoma, Geneva, sans-serif;
+}
+
+.logoImg {
+	width:270px;
+	height:auto;
+margin-top:82px;
+}
+.panelButton{
+	width:78%;
+	margin:0 auto !important;
+}
+.panelButton button{
+	margin-right:28px;
+	margin-left:28px;
+}
+.msgSuc{
+	margin-top:24px;
+}
+button{
+	width: 190px;
+margin-left: 10px;
+margin-right: 10px;
+}
+.button{
+		width: 100px;
+}

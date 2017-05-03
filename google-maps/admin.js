@@ -1,0 +1,1 @@
+var markersInfoAdmin= JSON.parse('<?php include_once("load-marker.php"); echo $markersInfo; ?>');
